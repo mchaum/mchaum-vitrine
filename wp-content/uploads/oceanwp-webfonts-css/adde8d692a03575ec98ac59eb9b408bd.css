@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'BIZ UDMincho';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(../oceanwp-webfonts/EJRRQgI6eOxFjBdKs38yhtWFcA7_.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'BIZ UDMincho';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(../oceanwp-webfonts/EJROQgI6eOxFjBdKs38yhtWNyyvvoutA.ttf) format('truetype');
+}
